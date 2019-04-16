@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\awnon\source\repos\stacks_and_queues\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\awnon\source\repos\stacks_and_queues\source.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\awnon\source\repos\stacks_and_queues\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Stacks_and_Queues.vcxproj -> C:\Users\awnon\source\repos\Stacks_and_Queues\Debug\Stacks_and_Queues.exe
